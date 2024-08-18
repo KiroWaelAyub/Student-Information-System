@@ -1,5 +1,6 @@
 # Student-Information-System
 The Student Management System program is a C-based application that manages student data using a linked list.
+
 **1. Features of the System:**
 The Student Management System is a C program designed to efficiently manage student information. Key features include:
 
@@ -12,6 +13,7 @@ Calculate Average GPA: Computes and displays the average GPA of all students.
 Find Student with Highest GPA: Identifies and shows the student with the highest GPA.
 Exit: Terminates the program.
 The system is implemented using fundamental programming concepts, such as conditions, loops, strings, structs, and pointers, and efficiently manages data using a linked list.
+
 
 **2. Corner Cases Preventions:**
 To ensure the integrity of data and prevent errors, the system includes the following corner case prevention mechanisms:
